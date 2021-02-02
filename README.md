@@ -1,6 +1,6 @@
 ### Hi there 👋,I'm Xianyuhf  
 
-* Welcome to my profile, you can learn more follow these links 💬
+* Welcome to my profile, you can learn more follow these links.
 
 |                             CSDN                             |                      juejin                       | blog |
 | :----------------------------------------------------------: | :-----------------------------------------------: | :--: |
