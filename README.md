@@ -8,7 +8,11 @@
 
 
 
-​                  [<img src="https://github-readme-stats.vercel.app/api?username=xianyuhf&count_private=true&show_icons=true&theme=buefy&count_private=true&include_all_commits" alt="Anurag's GitHub stats" style="zoom: 67%;" />](https://github.com/anuraghazra/github-readme-stats)                                   [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xianyuhf&layout=compact&theme=buefy&count_private=true" alt="Top Langs"  />](https://github.com/anuraghazra/github-readme-stats)
+[<img src="https://github-readme-stats.vercel.app/api?username=xianyuhf&count_private=true&show_icons=true&theme=buefy" alt="Anurag's GitHub stats"  />](https://github.com/anuraghazra/github-readme-stats)                        
+
+​         
+
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xianyuhf&layout=compact&theme=buefy&count_private=true&card_width=300&card_height =100" alt="Top Langs" style="zoom:;" />](https://github.com/anuraghazra/github-readme-stats)
 
 
 
